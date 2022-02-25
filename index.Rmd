@@ -1,0 +1,24 @@
+---
+title: "Sigríður Björndotter"
+image: "jyc.JPG"
+links:
+  - label: Resume
+    url: "https://www.linkedin.com/in/%E4%BF%8A%E4%BD%91-%E9%99%88-145705228/"
+  - label: Github
+    url: "https://github.com/JunyouC"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+**University of Chicago** | Chicago, U.S.
+
+M.A. | September 2020 - June 2022
+
+**Renmin University of China** | Beijing, China
+
+B. in Economics | August 2016 - May 2020
+
+
