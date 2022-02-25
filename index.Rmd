@@ -1,6 +1,6 @@
 ---
 title: "Sigríður Björndotter"
-image: "jyc.JPG"
+image: "jyc.JPG" (make sure that is committed to the repository)
 links:
   - label: Resume
     url: "https://www.linkedin.com/in/%E4%BF%8A%E4%BD%91-%E9%99%88-145705228/"
